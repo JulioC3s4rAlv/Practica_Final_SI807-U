@@ -6,7 +6,7 @@ set -e
 # ==============================
 PROJECT_ID="practica-final-julio-alvarez-2"
 PROJECT_NAME="Practica Final Julio 2"
-BILLING_ACCOUNT="011771-C8B653-A0A413"
+BILLING_ACCOUNT=""
 
 REGION="us-east1"
 BUCKET_NAME="practica-final-julio-alvarez-bucket-2"
